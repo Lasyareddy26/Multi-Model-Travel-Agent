@@ -1,0 +1,4 @@
+Create a 3-step search strategy to plan this trip:
+1. Search for flights/transport from [Origin] to [Destination].
+2. Search for top-rated hotels in [Destination] within [Budget].
+3. Find local weather and 3 top attractions.

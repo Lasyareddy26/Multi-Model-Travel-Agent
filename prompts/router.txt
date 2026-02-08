@@ -1,0 +1,4 @@
+Determine if the travel request is:
+1. DIRECT: General advice or greeting.
+2. COMPLEX: Needs flight/hotel/weather data research.
+Output only 'DIRECT' or 'COMPLEX'.
